@@ -69,6 +69,7 @@ body {
 /*** Response Container ***/
 #response-container {
     margin-top: 2em;
+    min-height: 100vh-;
 }
 
 /*** Image Styline ***/
@@ -114,13 +115,15 @@ figcaption {
     padding: 0;
     position: absolute;
     width: 1px;
-    white-space: nowrap; /* 1 */
+    white-space: nowrap;
+    /* 1 */
 }
 
 
 /********** Footer ***************/
 .footer {
-    background-color: rgb(221, 211, 217);
+    background-color: #2E3D49;
+    color: #fff;
     padding: 1em;
     margin: 0;
     text-align: center;
