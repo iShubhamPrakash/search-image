@@ -13,3 +13,7 @@ It uses the [Unsplash-API](https://unsplash.com/developers) to fetch image from 
 
 * On desktop, just right clik and click on save image.
 * On mobile device, long press the image and tap download image.
+
+## See the app live [here](https://i-shubhamprakash.github.io/search-image/)
+
+https://i-shubhamprakash.github.io/search-image/
