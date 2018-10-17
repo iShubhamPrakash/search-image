@@ -116,3 +116,51 @@ figcaption {
     width: 1px;
     white-space: nowrap; /* 1 */
 }
+
+
+/********** Footer ***************/
+.footer {
+    background-color: rgb(221, 211, 217);
+    padding: 1em;
+    margin: 0;
+    text-align: center;
+}
+
+/********** customization of buttons and font awesome contact icons***************/
+.contact {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact-logo-holder {
+    text-align: center;
+}
+
+.contact-link {
+    text-decoration: unset;
+    padding: 5px;
+}
+
+.heart {
+    color: #ec3e2e;
+}
+
+.github {
+    color: #2e3c49;
+}
+
+.linkedin {
+    color: #0077b5;
+}
+
+.twitter {
+    color: #1da1f3;
+}
+
+.google {
+    color: #dc4538;
+}
+
+.facebook {
+    color: #3b5998;
+}
