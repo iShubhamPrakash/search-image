@@ -19,6 +19,8 @@ body {
     margin: auto;
     max-width: 1200px;
     width: 80%;
+    margin-left: auto;
+    margin-right:auto;
 }
 
 .masthead {
@@ -38,8 +40,8 @@ body {
 /*** Search Form ***/
 #search-form {
     display: flex;
+    justify-content: space-evenly;
     padding: 1em 0;
-    flex-wrap: wrap;
 }
 
 #search-keyword {
@@ -56,9 +58,7 @@ body {
     border-radius: 4px;
     color: #ffffff;
     cursor: pointer;
-    padding: 1em 4em;
-    text-transform: uppercase;
-    margin: 6px auto 0 auto;
+    padding: 1em 1.6em;
 }
 
 #submit-btn:hover {

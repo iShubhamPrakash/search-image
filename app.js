@@ -1,10 +1,10 @@
 (function () {
-    const form = document.querySelector('#search-form');
+    const formBtn = document.querySelector('#submit-btn');
     const searchField = document.querySelector('#search-keyword');
     let searchedText;
     const responseContainer = document.querySelector('#response-container');
 
-    form.addEventListener('submit', function (e) {
+    formBtn.addEventListener('click', function (e) {
         e.preventDefault();
         responseContainer.innerHTML = '';
         searchedText = searchField.value;
