@@ -98,7 +98,7 @@ figcaption {
 
 /*** Error State Styling ***/
 .error-no-image {
-    background: url(../images/icon-no-image.png) no-repeat 50% top;
+    background: url(/images/icon-no-image.png) no-repeat 50% top;
     margin-bottom: 3em;
     padding-top: 8em;
     text-align: center;
