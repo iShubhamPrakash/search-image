@@ -95,48 +95,6 @@ figcaption {
     width: 100%;
 }
 
-/*** Article Styling ***/
-ul {
-    list-style: none;
-    padding: 0;
-}
-
-.article {
-    background: url('../images/icon-article.png'), #ffffff;
-    background-position: 1.5em 1.2em;
-    background-repeat: no-repeat;
-    background-size: 1.8em;
-    border: solid 1px #dbe2e8;
-    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
-    margin-bottom: 0.5em;
-    padding: 1em 2em 1em 4.8em;
-}
-
-.article:hover {
-    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
-}
-
-.article h2 {
-    font-size: 18px;
-    font-weight: 600;
-    margin: 0;
-}
-
-.article h2 a {
-    color: #02b3e4;
-    text-decoration: none;
-}
-
-.article h2 a:hover {
-    text-decoration: underline;
-}
-
-.article p {
-    font-size: 0.9em;
-    line-height: 1.4;
-}
-
-
 /*** Error State Styling ***/
 .error-no-image {
     background: url(../images/icon-no-image.png) no-repeat 50% top;
@@ -145,12 +103,6 @@ ul {
     text-align: center;
 }
 
-.error-no-articles {
-    background: url('../images/icon-no-articles.png') no-repeat 50% top;
-    margin-top: 3em;
-    padding-top: 8em;
-    text-align: center;
-}
 
 /*** Helpers ***/
 .visuallyhidden {
