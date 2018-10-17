@@ -28,7 +28,7 @@
             htmlContent = '<div class="image-container">' + data.results.map(image =>
                 `<figure id="image">
                     <img src="${image.urls.regular}" alt="${searchedText}">
-                    <figcaption>${searchedText} by ${image.user.name}</figcaption>
+                    <figcaption>Image by ${image.user.name}</figcaption>
                 </figure>`).join('') + `</div>`
         } else {
             htmlContent = `<h1 class="error-no-image">Sorry, No image result for  ${searchedText}</h1>`
