@@ -17,3 +17,11 @@ It uses the [Unsplash-API](https://unsplash.com/developers) to fetch image from 
 ## See the app live [here](https://i-shubhamprakash.github.io/search-image/)
 
 https://i-shubhamprakash.github.io/search-image/
+
+## Author 
+
+Shubham Prakash
+
+shubham.prakash2308@gmail.com
+
+LinkedIn:  https://www.linkedin.com/in/ishubhamprakash/
